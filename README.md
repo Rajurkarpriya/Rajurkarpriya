@@ -31,20 +31,23 @@ I specialize in **data visualization, analytics, and business intelligence** to 
 
 ## 📈 GitHub Stats  
 
+### 📈 GitHub Activity Graph
+![Rajurkarpriya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajurkarpriya&theme=react-dark&hide_border=true&area=true)
+
 🔥 **Streak Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajurkarpriya&theme=radical)  
 
 📊 **GitHub Profile Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajurkarpriya&show_icons=true&theme=vision-friendly-dark)  
 
 💻 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajurkarpriya&layout=compact&theme=vision-friendly-dark)  
 
 ---
 
 ### 🎯 **Let's Connect!**  
-[![LinkedIn](https://www.linkedin.com/in/priya-rajurkar-36aab226b/)](YOUR_LINKEDIN_PROFILE)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB_PROFILE)  
+💼 LinkedIn: https://www.linkedin.com/in/priya-rajurkar-36aab226b/
+📧 Email: priyarajurkar71@gmail.com
 
 ---
 
