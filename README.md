@@ -22,7 +22,7 @@ I specialize in data visualization, analytics, and business intelligence to driv
 
 
 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajurkarpriya&theme=radical)  
 
 📊 GitHub Profile Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark)  
