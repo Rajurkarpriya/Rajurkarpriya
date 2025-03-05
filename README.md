@@ -47,7 +47,8 @@ I specialize in **data visualization, analytics, and business intelligence** to 
 💻 **Top Languages**  
 ![Rajurkarpriya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajurkarpriya&layout=compact&theme=vision-friendly-dark&hide=html,css)
 
-
+### 🏆 GitHub Achievements
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Rajurkarpriya&theme=darkhub&no-frame=true&margin-w=15)
 
 ---
 
