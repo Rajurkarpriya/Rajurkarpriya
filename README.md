@@ -34,14 +34,20 @@ I specialize in **data visualization, analytics, and business intelligence** to 
 ### 📈 GitHub Activity Graph
 ![Rajurkarpriya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajurkarpriya&theme=react-dark&hide_border=true&area=true)
 
+
 🔥 **Streak Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajurkarpriya&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajurkarpriya&theme=dark&hide_border=true)
+
+
 
 📊 **GitHub Profile Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajurkarpriya&show_icons=true&theme=vision-friendly-dark)  
+![Rajurkarpriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajurkarpriya&show_icons=true&theme=radical)
+
 
 💻 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajurkarpriya&layout=compact&theme=vision-friendly-dark)  
+![Rajurkarpriya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajurkarpriya&layout=compact&theme=vision-friendly-dark&hide=html,css)
+
+
 
 ---
 
