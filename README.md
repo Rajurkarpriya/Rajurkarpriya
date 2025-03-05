@@ -1,5 +1,6 @@
 🚀 Welcome to My GitHub!
-🌟 Hi there! I'm Priya Rajurkar, a passionate Data & Business Analyst skilled in turning raw data into actionable insights! 📊 I specialize in data visualization, analytics, and business intelligence to drive data-driven decision-making.
+🌟 Hi there! I'm Priya Rajurkar, a passionate Data & Business Analyst skilled in turning raw data into actionable insights! 📊 
+I specialize in data visualization, analytics, and business intelligence to drive data-driven decision-making.
 
 🔍 About Me
 🎯 Data Enthusiast | Problem Solver | Insight Generator
