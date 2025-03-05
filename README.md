@@ -43,15 +43,10 @@ I specialize in **data visualization, analytics, and business intelligence** to 
 ---
 
 ### 🎯 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_PROFILE)  
+[![LinkedIn](https://www.linkedin.com/in/priya-rajurkar-36aab226b/)](YOUR_LINKEDIN_PROFILE)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB_PROFILE)  
 
 ---
 
-### **Why This Format Works?**
-✅ **Clear and structured** layout  
-✅ **Readable with bullet points and icons**  
-✅ **Stylish with relevant emojis**  
-✅ **Includes interactive GitHub stats**  
 
 This will make your GitHub profile **visually appealing, professional, and easy to read**. 🚀 Let me know if you need any further tweaks!
